@@ -1,0 +1,270 @@
+2025-05-14 09:30:07,543 - lms - INFO - Starting LMS API application
+2025-05-14 09:30:07,544 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 09:30:07,545 - lms - INFO - CORS middleware configured
+2025-05-14 09:30:07,557 - lms - INFO - API routers included
+2025-05-14 09:30:07,629 - lms - INFO - Database tables created successfully
+2025-05-14 09:39:52,453 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 09:39:53,066 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 09:39:54,195 - lms - INFO - Fetching user statistics
+2025-05-14 09:39:54,206 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 09:39:54,223 - lms - INFO - Fetching user statistics
+2025-05-14 09:39:54,228 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 10:05:56,775 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 10:05:56,809 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 10:06:04,475 - lms - INFO - Course Php Test (ID: 3) unpublished by user Admin_Test
+2025-05-14 10:06:15,650 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:06:15,693 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:06:25,731 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:06:25,748 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:09:15,966 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:09:15,989 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:11:26,091 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:11:26,207 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:11:30,423 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:11:30,473 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:11:32,600 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:11:32,655 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:12:50,662 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:12:50,685 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:13:50,182 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:13:50,229 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:13:53,161 - lms - INFO - Fetching user statistics
+2025-05-14 10:13:53,180 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 10:13:53,205 - lms - INFO - Fetching user statistics
+2025-05-14 10:13:53,212 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 10:13:56,718 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:13:56,736 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:15:15,782 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:15:15,843 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:15:28,272 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 10:15:28,709 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 10:15:29,802 - lms - INFO - Fetching user statistics
+2025-05-14 10:15:29,812 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 10:15:29,859 - lms - INFO - Fetching user statistics
+2025-05-14 10:15:29,865 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 10:15:33,549 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:15:33,573 - lms - INFO - Retrieved 2 courses out of 2 total courses
+2025-05-14 10:16:17,572 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 10:16:17,678 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 10:25:21,240 - lms - INFO - Starting LMS API application
+2025-05-14 10:25:21,241 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:25:21,242 - lms - INFO - CORS middleware configured
+2025-05-14 10:25:21,255 - lms - INFO - API routers included
+2025-05-14 10:25:21,318 - lms - INFO - Database tables created successfully
+2025-05-14 10:30:13,786 - lms - INFO - Starting LMS API application
+2025-05-14 10:30:13,788 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:30:13,790 - lms - INFO - CORS middleware configured
+2025-05-14 10:30:13,812 - lms - INFO - API routers included
+2025-05-14 10:30:13,848 - lms - INFO - Database tables created successfully
+2025-05-14 10:30:38,042 - lms - INFO - Starting LMS API application
+2025-05-14 10:30:38,043 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:30:38,044 - lms - INFO - CORS middleware configured
+2025-05-14 10:30:38,065 - lms - INFO - API routers included
+2025-05-14 10:30:38,100 - lms - INFO - Database tables created successfully
+2025-05-14 10:32:18,139 - lms - INFO - Starting LMS API application
+2025-05-14 10:32:18,140 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:32:18,141 - lms - INFO - CORS middleware configured
+2025-05-14 10:32:18,153 - lms - INFO - API routers included
+2025-05-14 10:32:18,192 - lms - INFO - Database tables created successfully
+2025-05-14 10:32:27,798 - lms - INFO - Starting LMS API application
+2025-05-14 10:32:27,799 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:32:27,801 - lms - INFO - CORS middleware configured
+2025-05-14 10:32:27,816 - lms - INFO - API routers included
+2025-05-14 10:32:27,841 - lms - INFO - Database tables created successfully
+2025-05-14 10:32:35,819 - lms - INFO - Starting LMS API application
+2025-05-14 10:32:35,821 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:32:35,822 - lms - INFO - CORS middleware configured
+2025-05-14 10:32:35,848 - lms - INFO - API routers included
+2025-05-14 10:32:35,880 - lms - INFO - Database tables created successfully
+2025-05-14 10:43:25,629 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 10:43:25,974 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 10:44:44,273 - lms - INFO - Starting LMS API application
+2025-05-14 10:44:44,274 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:44:44,276 - lms - INFO - CORS middleware configured
+2025-05-14 10:44:44,301 - lms - INFO - API routers included
+2025-05-14 10:44:44,340 - lms - INFO - Database tables created successfully
+2025-05-14 10:49:09,286 - lms - INFO - Starting LMS API application
+2025-05-14 10:49:09,289 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:49:09,289 - lms - INFO - CORS middleware configured
+2025-05-14 10:49:09,306 - lms - INFO - API routers included
+2025-05-14 10:49:09,334 - lms - INFO - Database tables created successfully
+2025-05-14 10:49:15,518 - lms - INFO - Starting LMS API application
+2025-05-14 10:49:15,520 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:49:15,521 - lms - INFO - CORS middleware configured
+2025-05-14 10:49:15,537 - lms - INFO - API routers included
+2025-05-14 10:49:15,575 - lms - INFO - Database tables created successfully
+2025-05-14 10:49:21,982 - lms - INFO - Starting LMS API application
+2025-05-14 10:49:21,983 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:49:21,985 - lms - INFO - CORS middleware configured
+2025-05-14 10:49:21,999 - lms - INFO - API routers included
+2025-05-14 10:49:22,041 - lms - INFO - Database tables created successfully
+2025-05-14 10:50:07,491 - lms - INFO - Starting LMS API application
+2025-05-14 10:50:07,492 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:50:07,493 - lms - INFO - CORS middleware configured
+2025-05-14 10:50:07,512 - lms - INFO - API routers included
+2025-05-14 10:50:07,553 - lms - INFO - Database tables created successfully
+2025-05-14 10:51:08,051 - lms - INFO - Starting LMS API application
+2025-05-14 10:51:08,052 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 10:51:08,053 - lms - INFO - CORS middleware configured
+2025-05-14 10:51:08,068 - lms - INFO - API routers included
+2025-05-14 10:51:08,084 - lms - INFO - Database tables created successfully
+2025-05-14 11:03:11,689 - lms - INFO - Starting LMS API application
+2025-05-14 11:03:11,692 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:03:11,693 - lms - INFO - CORS middleware configured
+2025-05-14 11:03:11,719 - lms - INFO - API routers included
+2025-05-14 11:03:11,753 - lms - INFO - Database tables created successfully
+2025-05-14 11:03:44,085 - lms - INFO - Starting LMS API application
+2025-05-14 11:03:44,086 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:03:44,087 - lms - INFO - CORS middleware configured
+2025-05-14 11:03:44,100 - lms - INFO - API routers included
+2025-05-14 11:03:44,138 - lms - INFO - Database tables created successfully
+2025-05-14 11:10:49,016 - lms - INFO - Starting LMS API application
+2025-05-14 11:10:49,016 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:10:49,017 - lms - INFO - CORS middleware configured
+2025-05-14 11:10:49,032 - lms - INFO - API routers included
+2025-05-14 11:10:49,076 - lms - INFO - Database tables created successfully
+2025-05-14 11:16:20,169 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:16:20,202 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:20:14,359 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:20:14,427 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:21:43,672 - lms - INFO - Starting LMS API application
+2025-05-14 11:21:43,699 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:21:43,703 - lms - INFO - CORS middleware configured
+2025-05-14 11:21:43,795 - lms - INFO - API routers included
+2025-05-14 11:21:43,941 - lms - INFO - Database tables created successfully
+2025-05-14 11:21:52,782 - lms - INFO - Starting LMS API application
+2025-05-14 11:21:52,783 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:21:52,784 - lms - INFO - CORS middleware configured
+2025-05-14 11:21:52,805 - lms - INFO - API routers included
+2025-05-14 11:21:52,831 - lms - INFO - Database tables created successfully
+2025-05-14 11:23:08,888 - lms - INFO - Starting LMS API application
+2025-05-14 11:23:08,889 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:23:08,890 - lms - INFO - CORS middleware configured
+2025-05-14 11:23:08,910 - lms - INFO - API routers included
+2025-05-14 11:23:08,938 - lms - INFO - Database tables created successfully
+2025-05-14 11:23:13,600 - lms - INFO - Starting LMS API application
+2025-05-14 11:23:13,601 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:23:13,602 - lms - INFO - CORS middleware configured
+2025-05-14 11:23:13,622 - lms - INFO - API routers included
+2025-05-14 11:23:13,672 - lms - INFO - Database tables created successfully
+2025-05-14 11:23:46,477 - lms - INFO - Starting LMS API application
+2025-05-14 11:23:46,478 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:23:46,479 - lms - INFO - CORS middleware configured
+2025-05-14 11:23:46,500 - lms - INFO - API routers included
+2025-05-14 11:23:46,539 - lms - INFO - Database tables created successfully
+2025-05-14 11:23:52,289 - lms - INFO - Starting LMS API application
+2025-05-14 11:23:52,291 - lms - INFO - Database connection established to localhost:3306/lms_db
+2025-05-14 11:23:52,292 - lms - INFO - CORS middleware configured
+2025-05-14 11:23:52,310 - lms - INFO - API routers included
+2025-05-14 11:23:52,332 - lms - INFO - Database tables created successfully
+2025-05-14 11:26:32,992 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:26:33,018 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:27:48,292 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:27:48,371 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:28:30,964 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:28:30,988 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:28:50,933 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:28:51,111 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:29:09,189 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:29:09,295 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:29:55,640 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:30:06,051 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:30:06,160 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:31:24,910 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:31:35,341 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:31:35,479 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:33:46,914 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:34:34,557 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:34:34,819 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:34:42,400 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:34:42,465 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 11:36:29,830 - lms - INFO - Fetching user statistics
+2025-05-14 11:36:29,850 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 11:36:29,860 - lms - INFO - Fetching user statistics
+2025-05-14 11:36:29,865 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 11:59:09,262 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 11:59:10,361 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 11:59:11,496 - lms - INFO - Fetching user statistics
+2025-05-14 11:59:11,503 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 11:59:11,524 - lms - INFO - Fetching user statistics
+2025-05-14 11:59:11,530 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:00:02,389 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 12:00:03,081 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 12:00:04,228 - lms - INFO - Fetching user statistics
+2025-05-14 12:00:04,235 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:00:04,278 - lms - INFO - Fetching user statistics
+2025-05-14 12:00:04,287 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:03:43,215 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:03:43,245 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:03:44,196 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:03:44,241 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:07:12,276 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 12:07:13,023 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 12:07:14,187 - lms - INFO - Fetching user statistics
+2025-05-14 12:07:14,195 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:07:14,214 - lms - INFO - Fetching user statistics
+2025-05-14 12:07:14,222 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:08:52,578 - lms - INFO - Fetching user statistics
+2025-05-14 12:08:52,586 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:08:52,615 - lms - INFO - Fetching user statistics
+2025-05-14 12:08:52,621 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:15:15,306 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:15:15,338 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:15:16,623 - lms - INFO - Admin Admin_Test is fetching all users
+2025-05-14 12:15:16,634 - lms - INFO - Retrieved 8 users out of 8 total users
+2025-05-14 12:15:16,820 - lms - INFO - Admin Admin_Test is fetching all users
+2025-05-14 12:15:16,827 - lms - INFO - Retrieved 8 users out of 8 total users
+2025-05-14 12:21:20,345 - lms - INFO - Admin Admin_Test is fetching all users
+2025-05-14 12:21:20,350 - lms - INFO - Retrieved 8 users out of 8 total users
+2025-05-14 12:21:20,377 - lms - INFO - Admin Admin_Test is fetching all users
+2025-05-14 12:21:20,383 - lms - INFO - Retrieved 8 users out of 8 total users
+2025-05-14 12:21:28,468 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:21:28,505 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:22:55,350 - lms - INFO - Fetching user statistics
+2025-05-14 12:22:55,362 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:22:55,383 - lms - INFO - Fetching user statistics
+2025-05-14 12:22:55,395 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:50:25,031 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:50:25,102 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:51:49,809 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:51:49,874 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:52:50,557 - lms - INFO - Fetching user statistics
+2025-05-14 12:52:50,573 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:52:50,597 - lms - INFO - Fetching user statistics
+2025-05-14 12:52:50,604 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:52:51,999 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:52:52,039 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:53:34,909 - lms - INFO - Fetching user statistics
+2025-05-14 12:53:34,914 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:53:34,965 - lms - INFO - Fetching user statistics
+2025-05-14 12:53:34,970 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 12:53:52,135 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:53:52,175 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:54:16,881 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:54:16,900 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:54:17,877 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 12:54:17,905 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:02:30,771 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:02:34,689 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:02:34,764 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:03:32,937 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:03:51,939 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:03,077 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:03,149 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:16,787 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:16,825 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:18,023 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:18,077 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:04:55,937 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:48:57,352 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 14:48:57,394 - lms - INFO - Retrieved 3 courses out of 3 total courses
+2025-05-14 15:00:33,297 - lms - INFO - Login attempt for email: admin1504@gmail.com
+2025-05-14 15:00:33,770 - lms - INFO - Successful login for user: Admin_Test (email: admin1504@gmail.com)
+2025-05-14 15:00:34,874 - lms - INFO - Fetching user statistics
+2025-05-14 15:00:34,887 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 15:00:34,905 - lms - INFO - Fetching user statistics
+2025-05-14 15:00:34,914 - lms - INFO - User statistics retrieved successfully: {'total_users': 8, 'active_users': 6, 'new_users_this_month': 8}
+2025-05-14 15:27:27,220 - lms - INFO - Admin Admin_Test is fetching all users
+2025-05-14 15:27:27,238 - lms - INFO - Retrieved 8 users out of 8 total users
+2025-05-14 15:27:27,304 - lms - INFO - Admin Admin_Test is fetching all users
+2025-05-14 15:27:27,309 - lms - INFO - Retrieved 8 users out of 8 total users
