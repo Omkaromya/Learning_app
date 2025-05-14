@@ -1,0 +1,131 @@
+.course-analytics {
+  padding: 24px;
+}
+
+.section-title {
+  margin-bottom: 24px;
+  color: #2d3748;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  padding-bottom: 12px;
+  
+  
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, #4299e1, #667eea);
+  border-radius: 2px;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.stat-card {
+  background:lightgray;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+}
+
+.stat-card h3 {
+  color: #4a5568;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.stat-number {
+  font-size: 32px;
+  font-weight: 700;
+  color: #2d3748;
+  margin-bottom: 8px;
+}
+
+.stat-subtitle {
+  color: #718096;
+  font-size: 14px;
+}
+
+.stat-details {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.stat-item:last-child {
+  border-bottom: none;
+}
+
+.stat-item .label {
+  color: #4a5568;
+  font-size: 14px;
+}
+
+.stat-item .value {
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.chart-container {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  max-width: 600px;
+  margin: 0 auto;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.chart-container:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chart-wrapper {
+  height: 400px;
+  width: 100%;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .chart-container {
+    padding: 16px;
+    max-width: 100%;
+  }
+
+  .chart-wrapper {
+    height: 350px;
+  }
+} 

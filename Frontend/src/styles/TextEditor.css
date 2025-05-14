@@ -1,0 +1,286 @@
+.text-editor-container {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.editor-header h2 {
+  margin: 0;
+  color: #2d3748;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.course-selector {
+  min-width: 300px;
+}
+
+.course-dropdown {
+  width: 100%;
+  padding: 12px 16px;
+  border: 2px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 15px;
+  color: #2d3748;
+  background-color: #f8fafc;
+  transition: all 0.2s ease;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%234a5568'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px;
+  padding-right: 40px;
+}
+
+.course-dropdown:hover {
+  border-color: #cbd5e0;
+  background-color: #fff;
+}
+
+.course-dropdown:focus {
+  outline: none;
+  border-color: #4299e1;
+  background-color: #fff;
+  box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.15);
+}
+
+.editor-toolbar {
+  display: flex;
+  gap: 8px;
+  padding: 12px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.editor-toolbar button {
+  padding: 8px 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  background: white;
+  color: #4a5568;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.editor-toolbar button:hover {
+  background: #edf2f7;
+  border-color: #cbd5e0;
+  color: #2d3748;
+}
+
+.editor-toolbar button:active {
+  background: #e2e8f0;
+  transform: translateY(1px);
+}
+
+.editor-content {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+  min-height: 400px;
+  background: white;
+  margin-bottom: 16px;
+}
+
+.editor-content .DraftEditor-root {
+  height: 100%;
+}
+
+.editor-content .DraftEditor-editorContainer {
+  height: 100%;
+}
+
+.editor-content .public-DraftEditor-content {
+  min-height: 300px;
+  padding: 8px;
+}
+
+.editor-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 16px;
+}
+
+.save-button {
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #4299e1, #3182ce);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.save-button:hover {
+  background: linear-gradient(135deg, #3182ce, #2b6cb0);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(66, 153, 225, 0.3);
+}
+
+.save-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(66, 153, 225, 0.2);
+}
+
+.save-button:disabled {
+  background: #e2e8f0;
+  color: #a0aec0;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
+.error {
+  color: #e53e3e;
+  text-align: center;
+  padding: 24px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.formatting-options {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.format-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.format-group label {
+  color: #4a5568;
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.format-group input[type="number"] {
+  width: 80px;
+  padding: 8px 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #2d3748;
+  background: white;
+}
+
+.format-group select {
+  padding: 8px 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #2d3748;
+  background: white;
+  min-width: 150px;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%234a5568'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px;
+  padding-right: 40px;
+}
+
+.format-group input[type="color"] {
+  width: 50px;
+  height: 36px;
+  padding: 2px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+}
+
+.format-group input[type="number"]:focus,
+.format-group select:focus {
+  outline: none;
+  border-color: #4299e1;
+  box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.15);
+}
+
+.format-group input[type="number"]:hover,
+.format-group select:hover {
+  border-color: #cbd5e0;
+}
+
+@media (max-width: 768px) {
+  .text-editor-container {
+    padding: 16px;
+  }
+
+  .editor-header {
+    flex-direction: column;
+    gap: 16px;
+    align-items: stretch;
+  }
+
+  .course-selector {
+    min-width: 100%;
+  }
+
+  .editor-toolbar {
+    padding: 8px;
+    gap: 6px;
+  }
+
+  .editor-toolbar button {
+    padding: 6px 10px;
+    font-size: 13px;
+  }
+
+  .editor-content {
+    padding: 12px;
+  }
+
+  .save-button {
+    width: 100%;
+    padding: 10px 20px;
+  }
+
+  .formatting-options {
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px;
+  }
+
+  .format-group {
+    width: 100%;
+  }
+
+  .format-group input[type="number"],
+  .format-group select {
+    width: 100%;
+  }
+} 
